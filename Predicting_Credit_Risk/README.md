@@ -1,22 +1,22 @@
 
-####Predicting Credit Risk
+#Predicting Credit Risk
 
-#####Table of Contents
+###Table of Contents
 
 I.    Data
 
-      a. Loading Data                                                                                        
-         1. import modules/display options                                  
-         2. load data                                                           
+      a. Loading Data
+         1. import modules/display options
+         2. load data
 
       b. Data Cleaning
       
-      c. Exploratory Data Analysis                                                        
-         1. distinguish between numerical and qualitative features                  
-         2. histograms(German)                                              
-         3. histograms(Australian)                                           
-         4. summary statistics                                              
-         5. class sizes                                                     
+      c. Exploratory Data Analysis
+         1. distinguish between numerical and qualitative features
+         2. histograms(German)
+         3. histograms(Australian)
+         4. summary statistics
+         5. class sizes
 
 II.   Feature Analysis & Selection 
 
