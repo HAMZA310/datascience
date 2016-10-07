@@ -3,7 +3,8 @@
 
 #####Table of Contents
 
-I.    Data                                                                  
+I.    Data
+
       a. Loading Data                                                                                        
          1. import modules/display options                                  
          2. load data                                                           
@@ -17,7 +18,8 @@ I.    Data
          4. summary statistics                                              
          5. class sizes                                                     
 
-II.   Feature Analysis & Selection                                          
+II.   Feature Analysis & Selection 
+
       a. Feature Analysis & Selection - Continuous Attributes                             
          1. hypothesis tests for 2 population means (German)                
          2. hypothesis tests for 2 population means (Australian)             
@@ -35,13 +37,15 @@ II.   Feature Analysis & Selection
          2. remove target variable from features dataset                    
          3. create a scaled version of the dataset                          
 
-III.  Model Building, Non-Ensemble Models                                   
+III.  Model Building, Non-Ensemble Models 
+
       a. K-Nearest Neighbors                                                
       b. Logistic Regression                                                
       c. Naive Bayes                                                        
       d. Decision Tree                                                      
         
-IV.   Model Building, Ensemble Methods                                      
+IV.   Model Building, Ensemble Methods
+
       a. Bagging Classifier (German)                                        
       b. Bagging Classifier (Australian)                                     
       c. Extra Trees (German)                                               
@@ -53,25 +57,30 @@ IV.   Model Building, Ensemble Methods
      
 V.    Model Scoring using Accuracy, F1 & ROC/AUC                                                     
  
-VI.   Probability Predictions                                               
+VI.   Probability Predictions 
+
       a. Wrappers in conjunction with Cross_Val_Predict                               
       b. Probability Predictions                                            
     
-VII.  Cost-Profit Considerations                                             
+VII.  Cost-Profit Considerations
+
       a. Confusion Matrix                                                                 
       b. Cost of False Positives                                            
       c. Threshold Function                                                 
           
-VIII. Profits & Metrics using a Cost-Profit Ratio of 2-to-1                 
+VIII. Profits & Metrics using a Cost-Profit Ratio of 2-to-1
+
       a. Metrics & Unit Profits at 50% Thresholds                           
       b. Unit Profits Across Thresholds                                     
       c. Best Performing Model by Highest Unit Profit                       
 
-IX.   Feature Importance & Model Descriptions                               
+IX.   Feature Importance & Model Descriptions
+
       a. Feature Importance                                                 
       b. Description of Learning Algorithms                                 
 
 X.    Best Performing Models using other Cost-Profit Ratios
+
       a. Cost-Profit Ratios of 3-to-1 and 4-to-1 (German) 
       b. Cost-Profit Ratios of 5-to-1 and 6-to-1 (Australian)
       d. True Positive/False Positive Rates and the ROC Curve
