@@ -1,4 +1,7 @@
 
+Click 'Predicting_Credit_Risk.ipynb' above to view the Python code. 
+The breakdown of sections for 'Predicting Credit Risk' is shown below.
+
 #Predicting Credit Risk
 
 ###Table of Contents
@@ -84,4 +87,3 @@ X.    Best Performing Models using other Cost-Profit Ratios
       a. Cost-Profit Ratios of 3-to-1 and 4-to-1 (German) 
       b. Cost-Profit Ratios of 5-to-1 and 6-to-1 (Australian)
       d. True Positive/False Positive Rates and the ROC Curve
-
