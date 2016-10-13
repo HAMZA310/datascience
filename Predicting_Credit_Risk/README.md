@@ -1,6 +1,6 @@
 
 Click 'Predicting_Credit_Risk.ipynb' above to view the Python code. 
-The breakdown of sections for 'Predicting Credit Risk' is shown below.
+The breakdown of sections is shown below.
 
 #Predicting Credit Risk
 
