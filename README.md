@@ -1,17 +1,17 @@
 
-This is my github repository for code projects.  I also wrote blogs for many of these code projects.  To visit my blog site, click here [blog](https://peterco877.github.io/).  Thanks for visiting!   
+This is my github repository for code projects.  I also created [blogs](https://peterco877.github.io/) for many of these. 
 
 Code Projects
 
-Wine Taste Quality – Models based on ‘wine quality dataset’.  Methods include Linear Regression, Lasso Regression, Ridge Regression, and from scratch algorithms for Gradient Descent, Least Angle Regression and Stepwise Selection.  
+[Wine Taste Quality](https://github.com/peterco877/datascience/blob/master/code/Wine_Taste_Quality/Wine_Taste_Quality.ipynb) – Models based on ‘wine quality dataset’.  Methods include Linear Regression, Lasso Regression, Ridge Regression, and from scratch algorithms for Gradient Descent, Least Angle Regression and Stepwise Selection.  
 
-Predicting Credit Risk – Models based on ‘German credit data’, and ‘Australian credit approval’.  See detailed table of contents below.  
+[Predicting Credit Risk](https://github.com/peterco877/datascience/blob/master/code/Predicting_Credit_Risk/Predicting_Credit_Risk.ipynb) – Models based on ‘German credit data’, and ‘Australian credit approval’.  See detailed table of contents below.  
 
-Airport Traffic Delays – Models based on data from 3 FAA datasets.  Methods include Hierarchical Clustering, Kmeans Clustering and Principal Component Analysis.
+[Airport Traffic Delays](https://github.com/peterco877/datascience/blob/master/code/Airport_Traffic_Delays/Airport_Traffic_Delays.ipynb) – Models based on data from 3 FAA datasets.  Methods include Hierarchical Clustering, Kmeans Clustering and Principal Component Analysis.
 
-State Liquor Sales – Time series forecast based on 'Iowa liquor sales' dataset.  Includes an ARIMA model.
+[State Liquor Sales](https://github.com/peterco877/datascience/blob/master/code/State_Liquor_Sales_Forecast/State_Liquor_Sales_Forecast.ipynb) – Time series forecast based on 'Iowa liquor sales' dataset.  Includes an ARIMA model.
 
-Webscraping – scraping jobs data from Indeed.com 
+[Webscraping](https://github.com/peterco877/datascience/blob/master/code/Webscraping/Webscraping_Jobs.ipynb) – scraping jobs data from Indeed.com 
 
 
 ###Table of Contents for Predicting Credit Risk
