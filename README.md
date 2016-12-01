@@ -1,20 +1,20 @@
 
-This is my github repository for code projects.  I also created [blogs](https://peterco877.github.io/) for many of these. 
+### datascience
 
-Code Projects
+Thank you for visiting my github repository. 
 
-[Wine Taste Quality](https://github.com/peterco877/datascience/blob/master/code/Wine_Taste_Quality/Wine_Taste_Quality.ipynb) – Models based on ‘wine quality dataset’.  Methods include Linear Regression, Lasso Regression, Ridge Regression, and from scratch algorithms for Gradient Descent, Least Angle Regression and Stepwise Selection.  
+My projects:
 
-[Predicting Credit Risk](https://github.com/peterco877/datascience/blob/master/code/Predicting_Credit_Risk/Predicting_Credit_Risk.ipynb) – Models based on ‘German credit data’, and ‘Australian credit approval’.  See detailed table of contents below.  
+[Wine Taste Quality](https://github.com/peterco877/datascience/blob/master/code/Wine_Taste_Quality/Wine_Taste_Quality.ipynb) Models based on ‘wine quality dataset’.  Methods include Linear Regression, Lasso Regression, Ridge Regression, and from scratch algorithms for Gradient Descent, Least Angle Regression and Stepwise Selection. <br> 
+[Airport Traffic Delays](https://github.com/peterco877/datascience/blob/master/code/Airport_Traffic_Delays/Airport_Traffic_Delays.ipynb) Models based on data from 3 FAA datasets.  Methods include Hierarchical Clustering, Kmeans Clustering and Principal Component Analysis. <br>
+[State Liquor Sales](https://github.com/peterco877/datascience/blob/master/code/State_Liquor_Sales_Forecast/State_Liquor_Sales_Forecast.ipynb) Time series forecast based on 'Iowa liquor sales' dataset.  Includes an ARIMA model. <br>
+[Webscraping](https://github.com/peterco877/datascience/blob/master/code/Webscraping/Webscraping_Jobs.ipynb) – scraping jobs data from Indeed.com< br>
+[Predicting Credit Risk](https://github.com/peterco877/datascience/blob/master/code/Predicting_Credit_Risk/Predicting_Credit_Risk.ipynb) Models based on ‘German credit data’, and ‘Australian credit approval’.  This was my GA capstone project, which I further developed after graduation.  See detailed table of contents below.
 
-[Airport Traffic Delays](https://github.com/peterco877/datascience/blob/master/code/Airport_Traffic_Delays/Airport_Traffic_Delays.ipynb) – Models based on data from 3 FAA datasets.  Methods include Hierarchical Clustering, Kmeans Clustering and Principal Component Analysis.
-
-[State Liquor Sales](https://github.com/peterco877/datascience/blob/master/code/State_Liquor_Sales_Forecast/State_Liquor_Sales_Forecast.ipynb) – Time series forecast based on 'Iowa liquor sales' dataset.  Includes an ARIMA model.
-
-[Webscraping](https://github.com/peterco877/datascience/blob/master/code/Webscraping/Webscraping_Jobs.ipynb) – scraping jobs data from Indeed.com 
+I also created a blog for each project.  See [my blogs](https://peterco877.github.io/). 
 
 
-###Table of Contents for Predicting Credit Risk
+####Table of Contents for Predicting Credit Risk
 
 I.    Data
 
