@@ -6,9 +6,13 @@ Thank you for visiting my github repository.
 My projects:
 
 [Wine Taste Quality](https://github.com/peterco877/datascience/blob/master/code/Wine_Taste_Quality/Wine_Taste_Quality.ipynb) Models based on ‘wine quality dataset’.  Methods include Linear Regression, Lasso Regression, Ridge Regression, and from scratch algorithms for Gradient Descent, Least Angle Regression and Stepwise Selection. <br> 
+
 [Airport Traffic Delays](https://github.com/peterco877/datascience/blob/master/code/Airport_Traffic_Delays/Airport_Traffic_Delays.ipynb) Models based on data from 3 FAA datasets.  Methods include Hierarchical Clustering, Kmeans Clustering and Principal Component Analysis. <br>
+
 [State Liquor Sales](https://github.com/peterco877/datascience/blob/master/code/State_Liquor_Sales_Forecast/State_Liquor_Sales_Forecast.ipynb) Time series forecast based on 'Iowa liquor sales' dataset.  Includes an ARIMA model. <br>
-[Webscraping](https://github.com/peterco877/datascience/blob/master/code/Webscraping/Webscraping_Jobs.ipynb) – scraping jobs data from Indeed.com< br>
+
+[Webscraping](https://github.com/peterco877/datascience/blob/master/code/Webscraping/Webscraping_Jobs.ipynb) – scraping jobs data from Indeed.com <br>
+
 [Predicting Credit Risk](https://github.com/peterco877/datascience/blob/master/code/Predicting_Credit_Risk/Predicting_Credit_Risk.ipynb) Models based on ‘German credit data’, and ‘Australian credit approval’.  This was my GA capstone project, which I further developed after graduation.  See detailed table of contents below.
 
 I also created a blog for each project.  See [my blogs](https://peterco877.github.io/). 
