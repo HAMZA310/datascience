@@ -14,9 +14,6 @@ The following code uses Tensorflow library.
 
 [Convolutional Neural Networks (TF)](https://github.com/peterco877/datascience/blob/master/convolutional_nets_TF.ipynb)
 
-'code' is a folder for earlier projects.
-
-
 
 
 
